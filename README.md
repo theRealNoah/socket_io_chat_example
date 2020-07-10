@@ -13,3 +13,5 @@ This is a starter project based on the [Get Started](https://socket.io/get-start
 - Show who’s online.
 - Add private messaging.
 - Share your improvements!
+
+NOTE: This is a good starter project. Not including install time: I was able to have a functioning local chat server within 45 minutes.
